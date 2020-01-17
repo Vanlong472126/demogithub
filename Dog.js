@@ -1,3 +1,3 @@
 let dog = {
-    name:'Dog'
+    name:'Dog',
 }

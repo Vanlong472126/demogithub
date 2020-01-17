@@ -1,0 +1,56 @@
+C:\Users\longdaica\AppData\Local\Android\Sdk 23111988along  23111988
+
+fix maps: add def supportLibVersion = safeExtGet('supportLibVersion', '28.0.0')
+def FACEBOOK_SDK_VERSION = safeExtGet('facebookSdkVersion', '[5.0,5.11.0[')
+
+keytool -exportcert -alias androiddebugkey -keystore C:\Users\longdaica\.android\debug.keystore | C:\OpenSSL\bin\openssl sha1 -binary | C:\OpenSSL\bin\openssl base64
+
+KEYHASH:zqFg4/K4UISiaP9LEaDpfokaJSA=
+
+keytool -list -v -keystore C:\Users\longdaica\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+
+export const INTERNAL_AWS_APPSYNC_PUBSUB_PROVIDER = (typeof(Symbol) !== 'undefined' && typeof(Symbol.for) === 'function') ?
+    Symbol.for('INTERNAL_AWS_APPSYNC_PUBSUB_PROVIDER') : '@@INTERNAL_AWS_APPSYNC_PUBSUB_PROVIDER';
+
+onstants.iCielPantonBlack:Constants.iCielPantonLigh
+ resizeMode:'contain
+{uri: this.props.item.detail_image_url.replace('https', 'http')}
+
+git clone https://vanlong23111988@bitbucket.org/vanlong23111988/facebase.git
+
+
+<TouchableOpacity 
+                            style={{width:window.width/8, padding:'2%'}}
+                            onPress={
+                                this.clickReadAllNotifi
+                            }>
+                            <Image
+                                style={{resizeMode:'contain', width:'100%', tintColor:this.props.badgeNumber>0?'white':'grey'}}
+                                source={require('../images/check_all.png')}
+                            /> 
+                        </TouchableOpacity>
+
+mkdir android/app/src/main/assets
+
+react-native-rename "FaceBase" -b vn.facebase.app
+react-native-rename "FaceBase" -b vn.facebase.app   zqFg4/K4UISiaP9LEaDpfokaJSA=
+
+keytool -export -alias myAlias -keystore C:\Users\longdaica\.android\myKeyStore | C:\openssl-0.9.8k_WIN32\bin\openssl sha1 -binary | C:\openssl-0.9.8k_WIN32\bin\openssl enc -a -e
+
+https://reqres.in/
+
+ANDROID X
+
+npm install --save-dev jetifier
+npx jetify
+
+react-native init facebase --version react-native@0.60  Xo8WBi6jzSxKDVR4drqm84yr9iU=
+
+git add .\__tests__\ .\android\ .\ios\ src .\.buckconfig .\.eslintrc.js .\.flowconfig .\.gitattributes .\.gitignore .\.prettierrc.js .\.watchmanconfig .\app.json .\App.tsx .\babel.config.js .\index.js 
+.\metro.config.js .\package.json .\rn-cli.config.js .\tsconfig.json
+
+keytool -list -v -keystore /Users/vanlong/Desktop/workspace/facebase/android/app/my-upload-key.keystore -alias my-key-alias
+
+
+
+react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res

@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/56e5abff6084b4e2650933aff4601a52/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/64852dd64f6971838d5db45e913d4a71/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6629879ffd21c7c66b23d8f29aa7a49c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8594cae3b2705622dc7c9047e740c887/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/55b60b019765da5841f2bb197c4f85fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/09560c2d452aa98c08ba7c266de65050/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/4745251824aace71691500adac690cd6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/ec4f683cae96202ffa4ec44946082ebf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/2befaf5b4a6d6b95d551a2f49e3f3dbf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/48ee517def6ffe36b04aefc443d0ff9f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6b098545687b3cbd477a0adf3d62afc5/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/b362c78e57ff8505ed6e34b395aba9e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/9e1af23a4c01a362addd26cf39b67457/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/c6000ab27357cf08d93309bab058c7d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/ef50d9994ed70c3b1c698ac1a05e5341/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/e6b3fa80c9c5134882cbeb4a74f449db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/fd1d27b761127b46cb5c7e7200c4f58a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/d84e69a0a7b4695c987f5a3683fb3c52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/de40a682e1985cd64a604aa12dcd9c10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/a5c22f84730689bf15be620ba2630d4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/fa5e67262c3549612542a60bff43f945/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8cfea901cceaafaa5c94c04bc6a3c00f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/d3500f65b085cce69e2236b6c2172113/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8da66d71e7ea6292dee8ae1a705f4269/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/23e38e8ec4779dcf85671f5a3243fc2d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/3833f8283d8f6d09ef39178d3f8098e7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/168f4d09e3418afd3e7ba9b090962260/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/83e8b8768b2c726d3d953e96d6cefb90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/76433efe1e8d3f125ee9c8f06dddd335/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/002847fb3a43871029279d2c893c728b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/b42c2dbc2915643c586ece1897f44905/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/e4c22d23dcf88528b75095a323a4653c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/5c346e8481809e8232d6d1407acd6290/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/75f270cd65c0858ac68bafcaf60ca165/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/1b2b56ced8927833bf64df32874cb41d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/f08ceac3ca4933195a4faf1a1d7a65fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/80954d24afd51ac4851e270489c5d36c/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/56e5abff6084b4e2650933aff4601a52/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/56e5abff6084b4e2650933aff4601a52/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6b098545687b3cbd477a0adf3d62afc5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6b098545687b3cbd477a0adf3d62afc5/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/23e38e8ec4779dcf85671f5a3243fc2d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/23e38e8ec4779dcf85671f5a3243fc2d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/3833f8283d8f6d09ef39178d3f8098e7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/3833f8283d8f6d09ef39178d3f8098e7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/23e38e8ec4779dcf85671f5a3243fc2d/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.rndemo2020.MainActivity
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/56e5abff6084b4e2650933aff4601a52/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/56e5abff6084b4e2650933aff4601a52/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/64852dd64f6971838d5db45e913d4a71/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/64852dd64f6971838d5db45e913d4a71/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6629879ffd21c7c66b23d8f29aa7a49c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6629879ffd21c7c66b23d8f29aa7a49c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8594cae3b2705622dc7c9047e740c887/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8594cae3b2705622dc7c9047e740c887/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/55b60b019765da5841f2bb197c4f85fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/55b60b019765da5841f2bb197c4f85fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/09560c2d452aa98c08ba7c266de65050/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/09560c2d452aa98c08ba7c266de65050/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/4745251824aace71691500adac690cd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/4745251824aace71691500adac690cd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/ec4f683cae96202ffa4ec44946082ebf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/ec4f683cae96202ffa4ec44946082ebf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/2befaf5b4a6d6b95d551a2f49e3f3dbf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/2befaf5b4a6d6b95d551a2f49e3f3dbf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/48ee517def6ffe36b04aefc443d0ff9f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/48ee517def6ffe36b04aefc443d0ff9f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6b098545687b3cbd477a0adf3d62afc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/6b098545687b3cbd477a0adf3d62afc5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/b362c78e57ff8505ed6e34b395aba9e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/b362c78e57ff8505ed6e34b395aba9e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/9e1af23a4c01a362addd26cf39b67457/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/9e1af23a4c01a362addd26cf39b67457/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/c6000ab27357cf08d93309bab058c7d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/c6000ab27357cf08d93309bab058c7d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/ef50d9994ed70c3b1c698ac1a05e5341/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/ef50d9994ed70c3b1c698ac1a05e5341/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/e6b3fa80c9c5134882cbeb4a74f449db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/e6b3fa80c9c5134882cbeb4a74f449db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/fd1d27b761127b46cb5c7e7200c4f58a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/fd1d27b761127b46cb5c7e7200c4f58a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/d84e69a0a7b4695c987f5a3683fb3c52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/d84e69a0a7b4695c987f5a3683fb3c52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/de40a682e1985cd64a604aa12dcd9c10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/de40a682e1985cd64a604aa12dcd9c10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/a5c22f84730689bf15be620ba2630d4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/a5c22f84730689bf15be620ba2630d4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/fa5e67262c3549612542a60bff43f945/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/fa5e67262c3549612542a60bff43f945/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8cfea901cceaafaa5c94c04bc6a3c00f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8cfea901cceaafaa5c94c04bc6a3c00f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/d3500f65b085cce69e2236b6c2172113/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/d3500f65b085cce69e2236b6c2172113/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8da66d71e7ea6292dee8ae1a705f4269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/8da66d71e7ea6292dee8ae1a705f4269/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/23e38e8ec4779dcf85671f5a3243fc2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/23e38e8ec4779dcf85671f5a3243fc2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/3833f8283d8f6d09ef39178d3f8098e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/3833f8283d8f6d09ef39178d3f8098e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/168f4d09e3418afd3e7ba9b090962260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/168f4d09e3418afd3e7ba9b090962260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/83e8b8768b2c726d3d953e96d6cefb90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/83e8b8768b2c726d3d953e96d6cefb90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/76433efe1e8d3f125ee9c8f06dddd335/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/76433efe1e8d3f125ee9c8f06dddd335/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/002847fb3a43871029279d2c893c728b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/002847fb3a43871029279d2c893c728b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/b42c2dbc2915643c586ece1897f44905/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/b42c2dbc2915643c586ece1897f44905/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/e4c22d23dcf88528b75095a323a4653c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/e4c22d23dcf88528b75095a323a4653c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/5c346e8481809e8232d6d1407acd6290/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/5c346e8481809e8232d6d1407acd6290/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/75f270cd65c0858ac68bafcaf60ca165/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/75f270cd65c0858ac68bafcaf60ca165/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/1b2b56ced8927833bf64df32874cb41d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/1b2b56ced8927833bf64df32874cb41d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/f08ceac3ca4933195a4faf1a1d7a65fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/f08ceac3ca4933195a4faf1a1d7a65fb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/80954d24afd51ac4851e270489c5d36c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vanlong/.gradle/caches/transforms-2/files-2.1/80954d24afd51ac4851e270489c5d36c/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/vanlong/Desktop/template/rnDemo2020/android/app/src/debug/AndroidManifest.xml:5:22-75

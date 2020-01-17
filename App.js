@@ -6,7 +6,7 @@ const Bar = memo(({onClick}) => {
   return (
     <View>
       <TouchableOpacity onPress={()=>onClick()}>
-      <Text>CHECK USEMEMO</Text>
+      <Text>CHECK USEMEMO 1111</Text>
       </TouchableOpacity>
       <FlatList
         data={[1,2,3,4]}
